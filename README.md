@@ -1,5 +1,6 @@
 ### Hi there 👋
 ### 🔭 I’m currently working on code 
+![QR Code](QRCode_KenfyV2.png)
 
 <!--
 **KenfyV2/KenfyV2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
